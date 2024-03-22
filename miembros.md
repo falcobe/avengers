@@ -2,7 +2,7 @@
 
 * Black panther
 * Black Widow
-* Capitán America
+* Capitán AmericaFie
 * Falcon
 * Hank Pym
 * Hawkeye
@@ -13,7 +13,7 @@
 * Scarlet Witch
 * Spider Woman
 * Thor
-* Vision
+* Vision 
 * Wasp
 * Antman
 * Nick Fury
